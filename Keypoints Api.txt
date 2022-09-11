@@ -1,0 +1,18 @@
+import axios from axios
+axios.get("copied url")
+const [arry,set_arry]=setState("")
+.then(res=>set_arry(res.data))
+console.log(setstate,"something else")
+return(
+    <div>
+    {arry.map((ele)=>{
+      return(
+        <>
+        <h1>Name:{ele.name} prits all the name that in the fake api
+        </>
+      )
+
+    })
+    <div/>
+    })
+Above the sytex of the Api in the react.
